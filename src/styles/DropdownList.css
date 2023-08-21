@@ -1,0 +1,67 @@
+/** filter drop down**/
+.filter-cont{
+    margin-left:100px;
+  }
+  .dropdownCont{
+    width: 200px;
+    position: relative;
+  }
+  .dropdownHeader{
+    background-color: #565173;
+    border:1px solid #262A40;
+    color:#f4f4f9;
+    height: 40px;
+    align-items: center;
+  }
+  .dropdownHeader label{
+    margin-left: 10px;
+  }
+  .dd-select-cont{
+    width: 200px;
+    justify-content: space-between;
+  }
+  .dd-arrow-icon {
+    margin-right: 10px;
+    padding-top: 5px;
+    font-size: 14px;
+  }
+  .dd-clear-icon{
+    font-size: 20px;
+    color: #F2F2F0;
+    margin-right: 10px;
+    padding-left:5px;
+    border-left: 1px solid #F2F2F0;
+  }
+  .dropdownListCont{
+    background-color: #565173;
+    display: none;
+    position: absolute;
+    z-index: 20;
+    width:99%;
+    max-height: 500px;
+    overflow: auto;
+    box-shadow: 0px 2px 5px 0px #565173;
+  }
+  .dropdownCont:hover .dropdownListCont{
+    display: block;
+  }
+  .dropdownRow{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    color:#f4f4f9;
+    cursor: pointer;
+  }
+  .dropdownRow:hover{
+    background-color:#BF9793
+  }
+  .dd-checkbox{
+    margin:5px 10px 5px 10px;
+    font-size: 16px;
+  }
+  .dropdownRow p{
+    flex-grow: 2;
+    margin-top:5px;
+    margin-bottom: 5px;
+  }

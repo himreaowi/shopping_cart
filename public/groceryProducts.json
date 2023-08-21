@@ -1,0 +1,299 @@
+[
+  {
+    "imgFileName": "0.jpg",
+    "name": "Brown Eggs",
+    "offerPercentage": 0,
+    "pId": "PID1",
+    "price": 40,
+    "quantity": "6 pc",
+    "type": "Dairy"
+  },
+  {
+    "imgFileName": "1.jpg",
+    "name": "Almonds",
+    "offerPercentage": 10,
+    "pId": "PID2",
+    "price": 200.5,
+    "quantity": "500 grams",
+    "type": "Dryfruit"
+  },
+  {
+    "imgFileName": "2.jpg",
+    "name": "Round Cookies",
+    "offerPercentage": 0,
+    "pId": "PID3",
+    "price": 157,
+    "quantity": "6 pc",
+    "type": "Snacks"
+  },
+  {
+    "imgFileName": "3.jpg",
+    "name": "Cheese",
+    "offerPercentage": 0,
+    "pId": "PID4",
+    "price": 50,
+    "quantity": "125 grams",
+    "type": "Dairy"
+  },
+  {
+    "imgFileName": "4.jpg",
+    "name": "Square Salt Cookies",
+    "offerPercentage": 0,
+    "pId": "PID5",
+    "price": 130,
+    "quantity": "6 pc",
+    "type": "Snacks"
+  },
+  {
+    "imgFileName": "5.jpg",
+    "name": "Strawberry Smoothie",
+    "offerPercentage": 0,
+    "pId": "PID6",
+    "price": 30.17,
+    "quantity": "1 jar",
+    "type": "Juice"
+  },
+  {
+    "imgFileName": "6.jpg",
+    "name": "Green Beans",
+    "offerPercentage": 0,
+    "pId": "PID7",
+    "price": 20,
+    "quantity": "1 kg",
+    "type": "Vegetable"
+  },
+  {
+    "imgFileName": "7.jpg",
+    "name": "Tomatos",
+    "offerPercentage": 5,
+    "pId": "PID8",
+    "price": 30,
+    "quantity": "1 kg",
+    "type": "Vegetable"
+  },
+  {
+    "imgFileName": "8.jpg",
+    "name": "Garlic",
+    "offerPercentage": 0,
+    "pId": "PID9",
+    "price": 50.24,
+    "quantity": "50 grams",
+    "type": "Vegetable"
+  },
+  {
+    "imgFileName": "9.jpg",
+    "name": "Spinach",
+    "offerPercentage": 0,
+    "pId": "PID10",
+    "price": 10.56,
+    "quantity": "3 pc",
+    "type": "Vegetable"
+  },
+  {
+    "imgFileName": "10.jpg",
+    "name": "Banana",
+    "offerPercentage": 0,
+    "pId": "PID11",
+    "price": 30.75,
+    "quantity": "12 pc",
+    "type": "Fruit"
+  },
+  {
+    "imgFileName": "11.jpg",
+    "name": "Cauliflower",
+    "offerPercentage": 0,
+    "pId": "PID12",
+    "price": 20,
+    "quantity": "1 pc",
+    "type": "Vegetable"
+  },
+  {
+    "imgFileName": "12.jpg",
+    "name": "Carrots",
+    "offerPercentage": 0,
+    "pId": "PID13",
+    "price": 30.34,
+    "quantity": "1 kg",
+    "type": "Vegetable"
+  },
+  {
+    "imgFileName": "13.jpg",
+    "name": "Black Grapes",
+    "offerPercentage": 7,
+    "pId": "PID14",
+    "price": 50.23,
+    "quantity": "1 kg",
+    "type": "Fruit"
+  },
+  {
+    "imgFileName": "14.jpg",
+    "name": "Choco Chip Cookies",
+    "offerPercentage": 15,
+    "pId": "PID15",
+    "price": 110,
+    "quantity": "12 pc",
+    "type": "Snacks"
+  },
+  {
+    "imgFileName": "15.jpg",
+    "name": "Oranges",
+    "offerPercentage": 0,
+    "pId": "PID16",
+    "price": 12.25,
+    "quantity": "1 pc",
+    "type": "Fruit"
+  },
+  {
+    "imgFileName": "16.jpg",
+    "name": "Strawberry Jelly",
+    "offerPercentage": 8,
+    "pId": "PID17",
+    "price": 80.34,
+    "quantity": "1 pc",
+    "type": "Juice"
+  },
+  {
+    "imgFileName": "17.jpg",
+    "name": "Beetroot",
+    "offerPercentage": 0,
+    "pId": "PID18",
+    "price": 30,
+    "quantity": "1 kg",
+    "type": "Vegetable"
+  },
+  {
+    "imgFileName": "18.jpg",
+    "name": "Cauliflower Purple",
+    "offerPercentage": 0,
+    "pId": "PID19",
+    "price": 25,
+    "quantity": "1 pc",
+    "type": "Vegetable"
+  },
+  {
+    "imgFileName": "19.jpg",
+    "name": "Red Capsicum",
+    "offerPercentage": 10,
+    "pId": "PID20",
+    "price": 48,
+    "quantity": "1 kg",
+    "type": "Vegetable"
+  },
+  {
+    "imgFileName": "20.jpg",
+    "name": "Cabbage",
+    "offerPercentage": 0,
+    "pId": "PID21",
+    "price": 14.21,
+    "quantity": "1 pc",
+    "type": "Vegetable"
+  },
+  {
+    "imgFileName": "21.jpg",
+    "name": "Corn",
+    "offerPercentage": 0,
+    "pId": "PID22",
+    "price": 15,
+    "quantity": "1 pc",
+    "type": "Vegetable"
+  },
+  {
+    "imgFileName": "22.jpg",
+    "name": "Strawberries",
+    "offerPercentage": 0,
+    "pId": "PID23",
+    "price": 57.23,
+    "quantity": "500 grams",
+    "type": "Fruit"
+  },
+  {
+    "imgFileName": "23.jpg",
+    "name": "Honey Jar",
+    "offerPercentage": 0,
+    "pId": "PID24",
+    "price": 150,
+    "quantity": "1 pc",
+    "type": "Juice"
+  },
+  {
+    "imgFileName": "24.jpg",
+    "name": "Promagrantes",
+    "offerPercentage": 6,
+    "pId": "PID25",
+    "price": 10.34,
+    "quantity": "1 pc",
+    "type": "Fruit"
+  },
+  {
+    "imgFileName": "25.jpg",
+    "name": "Cashew Nuts",
+    "offerPercentage": 0,
+    "pId": "PID26",
+    "price": 328,
+    "quantity": "500 grmas",
+    "type": "Dryfruit"
+  },
+  {
+    "imgFileName": "26.jpg",
+    "name": "Coconut",
+    "offerPercentage": 0,
+    "pId": "PID27",
+    "price": 14,
+    "quantity": "1 pc",
+    "type": "Fruit"
+  },
+  {
+    "imgFileName": "27.jpg",
+    "name": "Cherry",
+    "offerPercentage": 3,
+    "pId": "PID28",
+    "price": 20,
+    "quantity": "125 grams",
+    "type": "Fruit"
+  },
+  {
+    "imgFileName": "28.jpg",
+    "name": "Potatos",
+    "offerPercentage": 0,
+    "pId": "PID29",
+    "price": 30,
+    "quantity": "1 kg",
+    "type": "Vegetable"
+  },
+  {
+    "imgFileName": "29.jpg",
+    "name": "Strawberry Milkshake",
+    "offerPercentage": 0,
+    "pId": "PID30",
+    "price": 30.25,
+    "quantity": "1 pc",
+    "type": "Juice"
+  },
+  {
+    "imgFileName": "30.jpg",
+    "name": "Lemenos",
+    "offerPercentage": 0,
+    "pId": "PID31",
+    "price": 14.7,
+    "quantity": "1 pc",
+    "type": "Fruit"
+  },
+  {
+    "imgFileName": "31.jpg",
+    "name": "French Fries Packet",
+    "offerPercentage": 15,
+    "pId": "PID32",
+    "price": 84.78,
+    "quantity": "1 pc",
+    "type": "Snacks"
+  },
+  {
+    "imgFileName": "32.jpg",
+    "name": "Fresh Lemon Juice",
+    "offerPercentage": 0,
+    "pId": "PID33",
+    "price": 25,
+    "quantity": "1 pc",
+    "type": "Juice"
+  }
+]

@@ -1,0 +1,21 @@
+/** contact page **/
+.contact-cont{
+    margin-left:90px;
+  }
+  .contact-cont p{
+    margin-bottom: 0px;
+    margin-top:5px;
+  }
+  .contact-cont h2{
+    margin-bottom: 0px;
+    margin-top:5px;
+    color: #262A40;
+  }
+  .contact-cont div{
+    margin-top:20px;
+  }
+  .contact-cont label{
+    font-size: 14px;
+    font-weight: bold;
+    color: #BF9793;
+  }
